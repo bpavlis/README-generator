@@ -26,5 +26,5 @@
 
 ## Questions <a id="questions"></a>
    - Github Username: [bpavlis](https://github.com/bpavlis)
-   - Email me with any questions: [fakeemail@gmail.com](fakeemail@gmail.com)
+   - Email with any questions: [fakeemail@gmail.com](fakeemail@gmail.com)
 
