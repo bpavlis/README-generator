@@ -1,8 +1,8 @@
-# title
-[![License: Apache](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+# Project Title
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Description
-    sefsef
+    This is a project description
 
 ## Table Of Contents
 1. [Installation](#installation)
@@ -13,20 +13,20 @@
 6. [Questions](#questions)
 
 ## Installation <a id="installation"></a>
-    sefesf
+    Install the project by doing xyz
 
 ## Usage <a id="usage"></a>
-    sefsef
+    This is how to use the project ...
 
 ## License <a id="license"></a> 
-    This application is covered under the Apache License 2.0. Click the license badge at the top of the page for more info.
+    This application is covered under the MIT License. Click the license badge at the top of the page for more info.
 
 ## Contributing <a id="contributing"></a>
-    esfsef
+    Contribute by doing this ...
 
 ## Tests <a id="tests"></a>
-    sefsef
+    This is how to test ...
 
 ## Questions <a id="questions"></a>
 - Github Username: [bpavlis](https://github.com/bpavlis)
-- Email with any questions: [email@email.com](email@email.com)
+- Email with any questions: [bpavlis@email.com](bpavlis@email.com)
